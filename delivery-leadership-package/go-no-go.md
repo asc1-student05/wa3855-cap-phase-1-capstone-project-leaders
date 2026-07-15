@@ -13,15 +13,10 @@
 
 ## What "GO" would mean
 
-- Merge `delivery/lead` → `main`, squash, delete branch.
-- Tag the merge commit `week-1`.
-
+- fixed, merged and validated with copiliot a day prior and ready to GO
 ## What "NO-GO" would mean
 
-- Hold the merge until: _condition_.
-- Owner of that condition: _name_.
-- Re-evaluate at: _time_.
-
+- If not fixed all validation errors by Tuesday Day 3 then it is a NO-GO
 ## My call
 
-_2–3 sentences. State the call. Name the *one* thing that drove it. Name what would flip it._
+All items are fixed and validated with copilot so it is a GO
