@@ -9,9 +9,9 @@
 
 ## Slide 2 — What shipped
 
-- Screenshot of assembled Evergreen Quote app on `main`.
-yet to publish
-- Link to the merged PR. https://github.com/asc1-student05/wa3855-cap-phase-1-capstone-project-leaders/pull/8
+- Screenshot of assembled Evergreen Quote app on `main`. Live URL
+https://asc1-student05.github.io/wa3855-cap-phase-1-capstone-project-leaders/
+- Link to the merged PR. https://github.com/asc1-student05/wa3855-cap-phase-1-capstone-project-leaders/pull/11
 - Link to the green CI run. https://github.com/asc1-student05/wa3855-cap-phase-1-capstone-project-leaders/actions/workflows/ci.yml
 
 ## Slide 3 — Two key decisions
