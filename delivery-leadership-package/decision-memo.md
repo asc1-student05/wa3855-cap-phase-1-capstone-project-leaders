@@ -13,7 +13,7 @@ _What was the situation that forced a choice? 2–3 sentences._
 ## Options considered
 
 - **Option A - Shipping with testimonial** got decision on testimonial and going with it.
-- **Option B - Deffering A/B test** _Marketing can do A/B on baseline later.
+- **Delivering fully tested product** making sure all CI items looked good, all errors fixed, compiled and deployed.
 
 ## Recommendation
 

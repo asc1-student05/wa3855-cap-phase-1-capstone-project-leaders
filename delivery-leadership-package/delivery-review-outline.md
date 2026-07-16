@@ -5,7 +5,7 @@
 ## Slide 1 — Delivery goal & did we hit it?
 
 - Goal (one sentence): By Thursday July 16 EOD, an assembled, themed, responsive Evergreen Quote app with the wired quote calculator is merged to main via a reviewed PR with a green CI run and demo to the stakeholders.
-- Hit? ☐ Yes  - with testimonial pending legal
+- Hit ☐ Yes  - with testimonial pending legal
 
 ## Slide 2 — What shipped
 
@@ -17,13 +17,13 @@ https://asc1-student05.github.io/wa3855-cap-phase-1-capstone-project-leaders/
 ## Slide 3 — Two key decisions
 
 - **Shipping with testimonial** got decision on testimonial and going with it.
-- **Deffering A/B test** _Marketing can do A/B on baseline later.
+- **Delivering fully tested product** making sure all CI items looked good, all errors fixed, compiled and deployed.
 
 ## Slide 4 — Risks & injects
 
 - Top risk we tracked:Testimonials cannot be published until Legal approves the quotes
 - **Inject #1 (Tue):** marketing asked for Compare Plans link + Legal blocked real testimonials. Re-prioritized, decision memo on file, Sponsor confirmed defer.
-- **Inject #2 (Wed):** customer-reported $5,400 renters quote + red CI. CI was a `node --check` syntax issue on an unrelated branch .
+- **Inject #2 (Wed):** ed CI. CI was a `node --check` syntax issue on an unrelated branch . Fixed the CI html issues and fully verified prior to deployment.
 ## Slide 5 — What I'd do differently next round
 
 - Get Legal decision on Monday, not on Tuesday afternoon.
