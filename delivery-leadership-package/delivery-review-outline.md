@@ -10,26 +10,25 @@
 ## Slide 2 — What shipped
 
 - Screenshot of assembled Evergreen Quote app on `main`.
-- Link to the merged PR.
-- Link to the green CI run.
+yet to publish
+- Link to the merged PR. https://github.com/asc1-student05/wa3855-cap-phase-1-capstone-project-leaders/pull/8
+- Link to the green CI run. https://github.com/asc1-student05/wa3855-cap-phase-1-capstone-project-leaders/actions/workflows/ci.yml
 
 ## Slide 3 — Two key decisions
 
-- **Decision 1:** _one line._  Why it mattered: _one line._
-- **Decision 2:** _one line._  Why it mattered: _one line._
-- (Both should be in `decision-memo.md`.)
+- **Shipping with testimonial** got decision on testimonial and going with it.
+- **Deffering A/B test** _Marketing can do A/B on baseline later.
 
 ## Slide 4 — Risks & injects
 
-- Top risk we tracked: _from risk-register.md._
-- Inject #1 (Tue): _what landed, how we re-prioritized._
-- Inject #2 (Wed): _what landed, what we did, the go/no-go call._
+- Top risk we tracked:Testimonials cannot be published until Legal approves the quotes
+- **Inject #1 (Tue):** marketing asked for Compare Plans link + Legal blocked real testimonials. Re-prioritized, decision memo on file, Sponsor confirmed defer.
+- **Inject #2 (Wed):** customer-reported $5,400 renters quote + red CI. CI was a `node --check` syntax issue on an unrelated branch .
 ## Slide 5 — What I'd do differently next round
 
-- 
-- 
+- Get Legal decision on Monday, not on Tuesday afternoon.
 
 ## Q&A prep — likely questions
 
-- _e.g., "Why didn't you ship X?"_
-- _e.g., "If you ran this week again with 3 engineers, what's the first thing you'd ask them?"_
+- "Why didn't you ship all parts of the optional scope?"
+- "Why PO didn't share the scope decision earlier?"
