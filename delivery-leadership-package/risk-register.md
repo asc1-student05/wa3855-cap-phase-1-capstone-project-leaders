@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 | R1 | theme.css conflicts with Bootstrap defaults and breaks layout | Jyoti | M | M | test on 375px / 768px / 1280px after every paste_ | layout still broken at 16:00 Day 2 |
 | R2 | Testimonials cannot be published until Legal approves the quotes | Lisa - Sponsor | H | L | Swap to placeholder testimonials labeled "Sample" until Legal returns | Legal hasn't responded on time by Wed |
-| R3 |  Code not tested properly by release|  Jyoti|  H|  H|  Give proper time for testing|  Tested and released|
+| R3 |  Code not tested properly by release|  Jyoti|  L|  H|  Give proper time for testing|  Tested and released|
 | R4 |  Lack of release experience to this new customer|  Jyoti| M | M | Pre-prodTest enviornment deploy | Rehearse the deployment in pre-prod |
 | R5 |  A failed merge could break the main branch and impact the Friday demo| Jyoti | L |  H| keep a rollback ready | resolve merge |
 
